@@ -1,0 +1,5 @@
+/bin/
+/.gocache/
+/sorted.dat
+/unsorted.dat
+/sorter
